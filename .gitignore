@@ -1,0 +1,8 @@
+*.txt
+*.db
+*.bash
+*.bak
+*.pyc
+*.pyo
+_project
+*.html
